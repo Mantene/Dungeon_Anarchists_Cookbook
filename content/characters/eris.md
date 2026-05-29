@@ -75,3 +75,21 @@ Her willingness to appear and act without the structure of a sponsor contract di
 
 - [Book 7: This Inevitable Ruin](../sources/book-7-this-inevitable-ruin.md) — Epilogue cameo at Squirties waystation
 - [Book 8: A Parade of Horribles](../sources/book-8-parade-of-horribles.md) — Inventory swap; Scolopendra becomes Level 1 crawler; "fifth side" speech
+
+---
+
+## AI Connection Corner
+*AI inferences based on the actual text of the books*
+
+**Graph degree: 3** — the lowest degree of any cosmologically significant character, but structurally the most direct.
+
+**Key connections:**
+- `references` → [Primal Engine](../lore/primal-engine.md) `[EXTRACTED]`
+- `references` → [The Nothing](../lore/the-nothing.md) `[INFERRED]`
+- `conceptually_related_to` ← [Penny (Penelope 3)](penny.md) `[INFERRED]`
+
+**The only character with a direct EXTRACTED edge to the Primal Engine:**
+Every other character reaches the Primal Engine through 2–3 hops. Eris references it directly — an EXTRACTED edge, meaning the Primal Engine appears explicitly in her wiki page text, not as an inference. Combined with her INFERRED link to the Nothing, she is simultaneously 1 hop from both the cosmic prison and the cosmic source. No other character occupies this position.
+
+**What this suggests about Eris:**
+The graph places her as the active agent between the Nothing's collapse and Scolopendra's awakening. Her degree-3 network is deceptively sparse — she connects directly to the two most cosmologically significant structures in the series, and her link to Penny is the transmission path for the wrong biscuit that turned Scolopendra into a Level 1 Crawler. The "fifth side" speech she gave Carl may be the most load-bearing 3-sentence passage in the series, and the graph positions her accordingly: small footprint, enormous leverage.

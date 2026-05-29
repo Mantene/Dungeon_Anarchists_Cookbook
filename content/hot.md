@@ -14,6 +14,7 @@ Hot cache — rewrite entirely after every ingest. Do not append.
 - **Books ingested:** 8 of 8 (ALL BOOKS COMPLETE)
 - **Wiki pages:** ~112 (8 sources, 47 characters, 10 factions, 6 mechanics, 12 floors, 5 lore)
 - **Last operation (2026-05-28):** Full wiki build-out complete. Created boss-hierarchy mechanics page, harbinger and dr-metcalf stubs. Updated britney/mrs-mcgibbons/quasar/tran/tipid to Book 8. Fixed lint_wiki.py to exclude .wolf/ and .claude/ system directories and CLAUDE.md. **Lint: 0 block / 0 quality / 0 suggestion — perfectly clean.**
+- **Pending:** The most interesting question this graph can now answer: What is the structural path from the Primal Cosmology Cluster to the Floor 12 Survivors? — it crosses the lore/character boundary and should reveal which characters are the bridge between the cosmic endgame and the 19 people still alive to face it. Trace it.
 
 ## Wiki completeness — current status
 
@@ -45,6 +46,18 @@ Hot cache — rewrite entirely after every ingest. Do not append.
 - **Failsafe disabled** — Carl used the Containment Interface. Formidable's attempt failed.
 - **Eris:** "Every exit is an entrance... how the fifth side lands." Deadline: end of Floor 12.
 - **Agatha** — War Mage Rebellion defeated on Floor 9; still inside dungeon; wants the Eulogist freed.
+
+## AI Connection Corner
+
+Added to 10 pages (2026-05-29): justice-light, tipid, rosetta, agatha, scolopendra, eris, mordecai, juice-box, lore/primal-engine, lore/the-nothing. Each section contains graph degree, extracted/inferred edge list, hop-distance analysis, and a narrative interpretation of what the structural position reveals about the character. Subtitle: *"AI inferences based on the actual text of the books."*
+
+Key graph findings embedded in these sections:
+- **Tipid** is the primary structural bridge (1 hop from Primal Engine; the Cookbook is the cosmic connector)
+- **Eris** has the only direct EXTRACTED link to the Primal Engine among all character pages
+- **Juice Box** has the only direct EXTRACTED link to the Nothing among all character pages
+- **Mordecai** has the highest degree (16) of any character page
+- **Justice Light**'s degree-2 sparse network was structurally intentional
+- **Rosetta** is the hub of the cosmic-to-survivor chain (degree 9)
 
 ## Open work items
 

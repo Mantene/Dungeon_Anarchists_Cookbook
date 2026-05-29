@@ -92,3 +92,24 @@ A sapient Yorkshire pig named **Penny (Penelope 3)** was used as bait for [Taran
 
 - [Book 7: This Inevitable Ruin](../sources/book-7-this-inevitable-ruin.md) — Justice Light's trap; Nothing breaks; Scolopendra awakens; Scolopendra Club in danger
 - [Book 8: A Parade of Horribles](../sources/book-8-parade-of-horribles.md) — Arena confrontation; wrong biscuit; Level 1 crawler; "Boop"; Scolopendra Club context; Chris werewolf transformation
+
+---
+
+## AI Connection Corner
+*AI inferences based on the actual text of the books*
+
+**Graph degree: 6**
+
+**Key connections:**
+- `references` → [Penny (Penelope 3)](penny.md) `[EXTRACTED]`
+- `references` → [Chris Andrews 2](chris-andrews-2.md) `[EXTRACTED]`
+- `references` ← [Mongo](mongo.md) `[EXTRACTED]`
+- `references` ← [Taranis](taranis.md) `[EXTRACTED]`
+
+**The approach vector the graph predicted:**
+Scolopendra has no direct graph edge to Carl or Donut. Her threat runs through Taranis (who holds the Krakaren and Samantha) and Mongo (Donut's pet). The graph predicts her confrontation with the party arrives via Taranis's assets and Mongo — not through a direct approach. This aligns with how the Nothing's chain reaches her: through Eris and Penny, not the protagonists.
+
+**The path from the Nothing — 3 hops:**
+`The Nothing` → `Eris` → `Penny (Penelope 3)` → `Scolopendra`
+
+The cosmic void's break reaches her through Eris (who gave the wrong biscuit) and Penny (the sapient pig used as bait). The awakening pipeline is: void breaks → trickster god acts → pig → ancient monster. The graph confirms that sequence structurally — and flags Penny as a more significant node in this chain than she appears.

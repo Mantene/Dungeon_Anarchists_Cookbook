@@ -194,6 +194,24 @@ First official leaderboard (tentative, just before Floor 4 collapse):
 
 ---
 
+## Retroactive Significance (8-Book Re-Read)
+
+**The Primal race description is the series' first canonical mention of the Primals** — four books before the full cosmological reveal. Mordecai's Ch. 2 explanation: *"The Primals are the progenitors, the first known species to conquer the universe... When someone comes across an abandoned remnant of their civilization, the resident AI, if it is still sane, usually takes the form of the race of the species who discovered it."* This is a precise description of what the Primal Engine does on Earth — presented as dungeon lore about a deprecated race option, 4 books before the AI narrates its own origin. Also: the race description says *"For the first several seasons of Dungeon Crawler World, all contestants started off as Primals"* — the dungeon was originally designed with Primal crawlers as default.
+
+**Carl found Primal himself; the AI did not recommend it.** The AI suggested Human, Hobgoblin, and Sasquatch. Carl scrolled past 398 options and found Primal "hidden amongst the others." He chose it because it unlocked all skills to Level 20, not knowing it was the race of the beings who built the dungeon. Retroactively, choosing Primal is one of the most significant decisions in the series.
+
+**Odette orchestrated the Manager Benefit deception in detail.** Before Floor 3, she told Carl exactly how to make Donut's choice look accidental, and explicitly said *"if he ever found out you did this on purpose, he would never forgive you."* She knew which class had the benefit, knew Mordecai couldn't disclose it unless asked directly, and designed the deception around his character. In the Book 2 Epilogue she then admits she lied about paying an exorbitant amount for their interview rights. Same conversation: genuine warning about Hekla, admitted lie about costs. This is her pattern throughout the series.
+
+**The Intellect Hunter race description planted a seed about Valtay** (Ch. 2). Carl noticed the dungeon's Intellect Hunter race resembled the Valtay worm-people: *"I wondered if they were the same creatures who ran the Valtay Corporation, but I was afraid to ask."* He suppressed the question. This is never resolved directly in the series.
+
+**Borant used their one-season VETO on the Remex quest rewards** — not to prevent damage to the dungeon, but to avoid paying for 83 Celestial boxes. The financial stakes: 83 Celestials would have *definitively* ended Borant's financial recovery. One box had already been opened (Quan Ch's Celestial robe), putting Borant on the hook regardless. The veto is thus confirmed as a pure financial instrument, not a fairness tool.
+
+**The Grull gauntlet warning** (Book 2 Epilogue). Odette warned Carl that his War Gauntlet of the Exalted Grull could summon the war god Grull if used against any of Grull's celebrants — and that King Rust had just purchased a deity sponsorship, likely Grull, to target Carl. This is setup carried through Books 3–4.
+
+**"The twins"** — Odette teased two upcoming crawler guests who are twins and "not on the top 10 list but quickly becoming new favorites." This is foreshadowing for characters introduced in Book 3.
+
+---
+
 ## Open Questions Going into Book 3
 
 - What is Carl's Doomsday Scenario actually useful for? It can only detonate on removal from inventory — when and how will Carl use it?

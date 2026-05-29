@@ -1,6 +1,6 @@
 ---
 type: faction
-first_seen: "Book 2, Chapter 19"
+first_seen: "Book 1, Chapter 47 (Agatha's equipment); Book 1 Epilogue (Odette's warning)"
 last_updated_book: 7
 status: active
 ---
@@ -21,6 +21,27 @@ Their most distinctive trait is the species: Valtay personnel are worm-like crea
 > — [Book 3 mechanics section](../sources/book-3-dungeon-anarchists-cookbook.md)
 
 This comparison reveals the structural similarity: the god "Soul Armor" mechanic and the Valtay host-body mechanic are the same biological suit technology. Gods, Valtay executives, and worm-people operatives are all "drivers" in suits.
+
+---
+
+## Book 1 — First Appearance (Retroactive)
+
+Valtay's first presence in the series predates Book 2 by an entire book. Two separate Book 1 moments:
+
+**Agatha's shopping cart (Ch. 47).** Carl stored Agatha's cart during a boss fight and found — only at the Floor 2 stairwell — three Valtay Corporation tech items hidden inside:
+- A **Trans Tunnel 7C Orator Relay** (illegal inter-tunnel communications device; flagged by the system AI as non-sanctioned)
+- A **Valtay Perso-Shield Platinum Edition**
+- A **Mag 3040 Valtay Corp Pulse Pistol**
+
+The communication device had a system AI warning: *"Any attempt to use or circumvent dungeon rules will result in immediate disqualification."* Someone was using Agatha to communicate outside dungeon monitoring. The moment Carl found the items, Agatha appeared at the stairwell — suggesting she knew he'd accessed her cart.
+
+**Odette's warning (Book 1 Epilogue).** When Carl asked Odette about the Valtay Corporation, she said:
+
+> *"Be careful. If they are somehow contacting you or trying to get to you, be very cautious. They're a corporate system government, and they're the ones who currently have an entire fleet parked outside of the Borant system, ready to collect on the debt. They were hours away from initiating a full-scale collection action when the kua-tin stopped them in their tracks by starting the season early. The next season is going to be run by them."*
+
+She also provided the first description of the species: *"They're a parasitic lifeform. They do utilize human bodies, but their home world is aquatic, and they much prefer water-based hosts, such as the kua-tin or the gleeners. They're known for their technological advancements. Their version of Dungeon Crawler World is less goblins and trolls and more android death machines and pulse rifles."*
+
+This is Odette in Book 1, on the record, telling Carl that Valtay runs the next season and that they may already be inside this one (through Agatha).
 
 ---
 

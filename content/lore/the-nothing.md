@@ -82,3 +82,22 @@ Justice Light died in Emberus's fire immediately after triggering the trap. His 
 - [Book 5: The Butcher's Masquerade](../sources/book-5-butchers-masquerade.md) — Signet's sacrifice into the Nothing
 - [Book 7: This Inevitable Ruin](../sources/book-7-this-inevitable-ruin.md) — Justice Light's trap; the Nothing breaking; Juice Box's jump; system messages; Scolopendra awakens
 - [Book 8: A Parade of Horribles](../sources/book-8-parade-of-horribles.md) — Scolopendra active in Floor 11's arena; Scolopendra Club massacre
+
+---
+
+## AI Connection Corner
+*AI inferences based on the actual text of the books*
+
+**Key connections:**
+- `references` ← [Juice Box](../characters/juice-box.md) `[EXTRACTED]` — **the only character with a direct extracted edge here**
+- `references` ← [Eris](../characters/eris.md) `[INFERRED]`
+- `references` ← [Mordecai](../characters/mordecai.md) `[INFERRED]`
+
+**Three independent paths into the Nothing:**
+The graph found the Nothing connected to the wiki through three separate character routes — Juice Box (direct, she's inside it), Eris (inferred, she caused it to break), and Mordecai (inferred, his semantic binding parallels the Nothing's prison function). These three paths are independent: they were extracted from different pages, by different subagents, without awareness of each other.
+
+**The Nothing as structural mirror:**
+The graph's INFERRED link between Mordecai and the Nothing is the most unexpected finding. The semantic extraction found a conceptual relationship between Mordecai's successive forced-form bindings and the Nothing as a containment mechanism — both are systems where a conscious entity is held inside something that shapes its expression without destroying it. Mordecai never entered the Nothing. The graph connected them anyway.
+
+**Draining into three locations:**
+The Nothing is currently breaking and draining into Sheol (Floor 15), the Halls of the Ascendency (Floor 12), and Scolopendra's Lair (Floor 18). Juice Box is somewhere in that flow. The graph cannot place her more precisely — but the three drain points are all in the wiki, and all have their own pages with character connections that could narrow it.

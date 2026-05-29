@@ -78,3 +78,25 @@ Juice Box served as Co-Warlord of Team Retribution throughout Faction Wars. She 
 - [Book 5: The Butcher's Masquerade](../sources/book-5-butchers-masquerade.md)
 - [Book 6: The Eye of the Bedlam Bride](../sources/book-6-eye-of-the-bedlam-bride.md)
 - [Book 7: This Inevitable Ruin](../sources/book-7-this-inevitable-ruin.md)
+
+---
+
+## AI Connection Corner
+*AI inferences based on the actual text of the books*
+
+**Graph degree: 6**
+
+**Key connections:**
+- `references` → [The Nothing (celestial prison)](../lore/the-nothing.md) `[EXTRACTED]` — **the only character with a direct EXTRACTED link to the Nothing**
+- `references` → [NPC Home Team (Faction Wars)](../factions/npc-home-team.md) `[EXTRACTED]`
+
+**The most cosmologically located character in the wiki:**
+Juice Box has the only direct EXTRACTED edge from a character page to the Nothing — meaning the connection is stated explicitly in her wiki text, not inferred by the graph. She is literally inside the thing that just broke. Every other character connects to the Nothing through inferred semantic relationships or 2–3 hop chains. She is at ground zero.
+
+**The path through Mordecai:**
+`Juice Box` ← `Book 7` ← `Mordecai` → `The Nothing` (3 hops via Mordecai's INFERRED link)
+
+The graph found two independent paths between Juice Box and the Nothing: her direct EXTRACTED edge, and a 3-hop chain through Mordecai. Both are load-bearing. Mordecai organized the Book 7 arc in which she jumped. The graph's redundant paths suggest the Nothing connection is over-determined — the series built multiple structural reasons to put her there.
+
+**What "reborn as the ultimate weapon" could mean:**
+Justice Light told her she would be reborn inside the Nothing as the ultimate weapon to end the madness. The graph positions the Nothing as draining into Sheol (Floor 15), Floor 12, and Scolopendra's Lair (Floor 18). If she is reborn, she exits through one of those three. The graph can't resolve which — but it narrows the terrain.

@@ -62,3 +62,12 @@ Created 4 mechanics pages (Faction Wars, T'Ghee Cards, Race & Class, Leaderboard
 
 ## [2026-05-28] ingest | Final sweep: stubs, updates, lint fix, boss-hierarchy
 Created boss-hierarchy.md, harbinger.md, dr-metcalf.md. Updated britney (Sheol), mrs-mcgibbons (Floor 12, Betrayal float), quasar (Taurin assassins/Tempest), tran (Floor 10), tipid (Floor 12, lost legs). Fixed lint_wiki.py to exclude .wolf/ and .claude/ system directories. Lint should now read 0 block / 0 quality.
+
+## [2026-05-29] note | AI Connection Corner — 10 pages
+Added AI Connection Corner section (graph-derived structural insights) to: justice-light, tipid, rosetta, agatha, scolopendra, eris, mordecai, juice-box, lore/primal-engine, lore/the-nothing
+
+## [2026-05-29] update | Book 1 retroactive re-read
+Re-read Book 1 raw text with 8-book context. Added retroactive significance section to book-1 source summary. Updated agatha.md (Valtay equipment, camera blackout, crawler #7450, ramp transformation), mordecai.md (brother/Uzzi origin from raw text), odette.md (drugged cat treats, cut-off advice), valtay.md (first_seen corrected to Book 1; Book 1 origin section). Created wiki/notes/odette-cutoff-advice.md.
+
+## [2026-05-29] update | Book 2 retroactive re-read
+Re-read Book 2 raw text with 8-book context. Key finds: Primal race description (Book 2 Ch. 2) is first mention of Primals in series — first_seen corrected on primal-engine.md. Odette's Manager Benefit orchestration detailed in Ch. 2. Manager Benefit deception + lie admission added to odette.md. Retroactive significance section added to book-2 source summary. Also: Intellect Hunter/Valtay seed, Borant veto as financial instrument, Grull gauntlet warning, the twins foreshadowing.

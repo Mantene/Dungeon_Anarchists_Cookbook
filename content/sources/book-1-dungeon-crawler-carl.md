@@ -183,6 +183,36 @@ Leaderboard populates upon collapse of Floor 3. At end of Floor 2, Carl and Donu
 
 ---
 
+## Retroactive Significance (8-Book Re-Read)
+
+Details that read as flavor text on first pass but are load-bearing in retrospect.
+
+**Agatha's crawler number is #7,450.** Carl is #4,122. Brandon's team is #12,330,671. She entered almost simultaneously with Carl — impossible for a random homeless woman swept in by accident.
+
+**The dungeon transformed stairs into a ramp specifically for Agatha's shopping cart** (Ch. 22). Brandon An confirmed: *"The stairs transformed into a ramp. It wanted her to come on down."* No other crawler received this accommodation. The people who fell in accidentally were never seen again.
+
+**Agatha was carrying three Valtay Corporation tech items** hidden in her shopping cart (found by Carl in Ch. 47, only examined at the Floor 2 stairwell):
+- A Trans Tunnel 7C Orator Relay — flagged as an illegal inter-tunnel comms device by the system AI
+- A Valtay Perso-Shield Platinum Edition  
+- A Mag 3040 Valtay Corp Pulse Pistol  
+The moment Carl discovered these items, Agatha appeared at the stairwell. The camera feed blacked out simultaneously (Zev: *"brief outage in the feed"* — the same thing that happens around kua-tin).
+
+**Odette confirmed in the Epilogue that Valtay runs the next dungeon season.** She described them as a parasitic lifeform that prefers aquatic hosts, and warned Carl they were already in-system when the kua-tin started the season early to block their debt collection. Her words: *"Be careful. If they are somehow contacting you or trying to get to you, be very cautious."* She was effectively warning him that Agatha might be their agent — without knowing Carl had already found the evidence.
+
+**Mordecai's hatred of Odette has a specific origin.** In Ch. 29, Mordecai said he almost chose the skyfowl-specific Storm Commander class, but Odette talked him out of it, then recommended his brother take it instead. His brother died. The urn on Mordecai's shelf is his mother's ashes. The photo is his brother. The room is everything he has left.
+
+**Odette drugged Donut's cat treats** before the first interview (Ch. 29), temporarily raising her wisdom and confidence stats by 1.5 points. She admitted it when confronted, called it no different from wine.
+
+**"Human-seeded world"** (Ch. 3): Mordecai told Carl that Earth is *"the seventh or eighth human-seeded world"* — humans are a planted species, not unique. This is the first statement of the series' central cosmological premise (later confirmed fully via the Primal Engine in Books 6–8).
+
+**Syndicate Standard language** (Ch. 3 goblin, dying): *"You're not speaking your language. You're speaking Syndicate Standard, you idiot slave. They programmed it into your brain."* The dungeon AI reprogrammed all human brains with a universal language before the crawl began. The goblins knew this. The humans did not.
+
+**Odette's cut-off advice** (Book 1 Epilogue — the book ends mid-sentence): She began recommending a hidden high-CHA class for Donut that *"will greatly increase your chances of survival"* but *"will make someone very angry."* She never finished. See [wiki/notes/odette-cutoff-advice.md](../notes/odette-cutoff-advice.md).
+
+**Donut's first mention of Ferdinand** (Ch. 23): *"I'd end up looking like Ferdinand." / "Who the hell is Ferdinand?" / "Nobody you'd know."* This is the only Book 1 hint at the character who doesn't appear until Book 3.
+
+---
+
 ## Open Questions Going into Book 2
 
 - What race and class will Carl and Donut choose on Floor 3?

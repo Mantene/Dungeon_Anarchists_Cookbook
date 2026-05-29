@@ -24,6 +24,24 @@ Former crawler who reached Floor 11. Took an exit deal. Became indentured as a g
 - Listen to Mordecai's class/race hints
 - "Never trust someone unless you know what they're getting out of it"
 - Donut picks race first on Floor 3
+- Get a pathfinder or mapping skill (crucial for lower floors)
+- "Everything is a stat. Just because you can't see it doesn't mean it's not really there."
+
+**She orchestrated the Manager Benefit deception.** Before Carl and Donut entered Floor 3, Odette gave Carl detailed instructions for how to trick Mordecai into the Manager Benefit via Donut's class choice. Her exact words (recalled in Book 2, Ch. 2):
+
+> *"If you do pick the Manager benefit, and it's not attached to an obvious choice, you'll want to make it look like a mistake. Don't ask him about it, because once he tells you what it is, it'll be too late. He won't be allowed to tell you unless you ask. Make it look like it was all Donut's idea, and you didn't have anything to do with it. Mordecai can hold a grudge, but he still sees Donut as a child. He'll forgive her. If he ever found out you did this on purpose, he would never forgive you."*
+
+She knew which class had the Manager Benefit attached, knew Mordecai couldn't disclose it unless asked directly, and planned the entire deception so Carl would remain the beneficiary without being implicated. Her stated reason: *"Mordecai has been in the dungeon for a very long time, and that brain of his is the single greatest resource any crawler can have."* Her unstated reason: Mordecai's permanent management meant more of his survival-increasing expertise flowing to Carl, which meant longer interviews, which meant more money for her.
+
+**She admitted lying about interview costs (Book 2 Epilogue).** After warning Carl about Hekla: *"I lied earlier when I said I was paying an exorbitant amount to get you two on the show. When I bought your rights, it was very early, and you were very cheap. I paid less for the entire season of interviews than one pays to get you two on right now."* She volunteers this confession immediately after giving a real warning — her pattern of mixing deceptions with genuine help.
+
+**She drugged Donut's cat treats.** Before the first interview, she put a substance in the treat bag that temporarily raised Donut's wisdom and confidence stats by 1.5 points. She admitted this openly when Carl confronted her: *"It was in her cat treats. It's temporary. It increased her wisdom and a few confidence stats by a point and a half. Not much. It makes for a better interview. It's no different than drinking a glass of strong wine."* She did not deny it or apologize.
+
+**Cut-off advice (Book 1 Epilogue — never completed).** At the very end of the Book 1 epilogue, before Carl and Donut descend to Floor 3, Odette began a final piece of advice:
+
+> *"It's just a suggestion. I don't know if, morally, this is a good idea or not, but this will greatly increase your chances of survival. It's something to look for during class selection. It's generally only offered to crawlers with a high charisma, so if it's available, it'll be hidden somewhere amongst Donut's choices. The problem is, if you pick it, it's going to make someone very angry."*
+
+The book ends. She never finishes the sentence. What she was about to recommend — a hidden high-CHA class for Donut that makes "someone very angry" — is the most significant unresolved mystery seeded in Book 1. Given Donut's eventual path (Character Actor, Assassin of Sekhmet), the "someone very angry" is likely the entire sponsor network or the Borant Corporation.
 
 ---
 

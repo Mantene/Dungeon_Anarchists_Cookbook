@@ -15,6 +15,29 @@ status: alive (location unknown; still inside dungeon)
 
 ---
 
+## Book 1 Evidence — Retroactive Analysis
+
+These details from Book 1 read as odd flavor text on first pass. With 8-book hindsight, each one is evidence of Agatha's true nature.
+
+**Crawler number: #7,450.** Carl is #4,122. Brandon An's team is #12,330,671. The gap between Carl and Agatha is ~3,300 numbers. The gap between Carl and every other named crawler is in the millions. She entered the dungeon almost simultaneously with Carl — through what entrance, and why that fast, is unexplained.
+
+**The dungeon accommodated her specifically.** When Brandon An pushed residents toward the dungeon entrance, the stairs remained stairs. When Agatha pushed her shopping cart onto them: *"the stairs transformed into a ramp. It wanted her to come on down."* (Ch. 22) The dungeon's architecture responded to her before any human confirmed she was coming. The people who fell in accidentally when the entrance opened were never seen again. Agatha descended on purpose, the first to go voluntarily, *"cackling like she always does."*
+
+**She carried three Valtay Corporation tech items.** Carl stored Agatha's shopping cart during the Ball of Swine boss fight and only examined its contents in Ch. 47 — at the Floor 2 stairwell, just before descending:
+- **Trans Tunnel 7C Orator Relay** — an illegal inter-tunnel communications device, flagged by the system AI with a red warning: *"The System AI governing this program has deemed all non-sanctioned and monitored communication devices illegal."* Someone was trying to communicate with Agatha outside dungeon surveillance.
+- **Valtay Perso-Shield Platinum Edition** — tech-based personal shield
+- **Mag 3040 Valtay Corp Pulse Pistol** — tech-based weapon
+
+All three manufactured by the [Valtay Corporation](../factions/valtay.md) — the corporation Odette explicitly named in the same chapter as running the *next* dungeon season. Agatha had their tech on Floor 1 of this season.
+
+**The camera feed blacked out when she arrived.** Zev pinged Carl moments after Agatha appeared: *"There was a brief outage there in the feed. It happens sometimes."* Earlier in Book 1, Mordecai established that cameras always go dark around kua-tin. The same thing happened around Agatha. She disrupts dungeon surveillance.
+
+**Mobs did not attack her.** Her own words: *"Them critters already know I'm here. They just don't know what to do about it."* She navigated Floor 1 at Level 4 for the entire floor without apparent difficulty from mobs. The dungeon's combat systems treat her differently.
+
+**The warning look.** When Carl started asking about her shopping cart at the Floor 2 stairs, she gave him a sharp look through her *"rheumy eyes"*: *"No, those eyes said, stop now."* She immediately covered when he pivoted to "I can fix the wheel." She knew exactly what was in that cart, knew Carl had found it, and moved to shut down the conversation in one beat.
+
+---
+
 ## Background
 
 Agatha set fire to the Meadow Lark nursing home on the night of the Transformation — forcing everyone outside, enabling dozens of survivors to enter the dungeon. This was deliberate. She had been on Earth for **ten years** waiting for the crawl to begin.
@@ -66,3 +89,24 @@ The AI's full narration in Book 8 revealed what the Eulogist is: the sleeping co
 - [Book 6: The Eye of the Bedlam Bride](../sources/book-6-eye-of-the-bedlam-bride.md)
 - [Book 7: This Inevitable Ruin](../sources/book-7-this-inevitable-ruin.md)
 - [Book 8: A Parade of Horribles](../sources/book-8-parade-of-horribles.md)
+
+---
+
+## AI Connection Corner
+*AI inferences based on the actual text of the books*
+
+**Graph degree: 8** — referenced in all 8 books, unique among non-protagonist characters.
+
+**Key connections:**
+- `semantically_similar_to` ← [Justice Light](justice-light.md) `[INFERRED]`
+- `conceptually_related_to` ← [Rosetta Thagra](rosetta.md) `[INFERRED]`
+
+**The only character who spans every book:**
+The graph extracted Agatha connections from all 8 source summaries — a temporal span matched only by Carl, Donut, and Mordecai. This makes structural sense: she was placed in Book 1 as Carl's neighbor with centuries of planning already behind her. Her degree is modest (8), but her span is unmatched.
+
+**3 hops from the Primal Engine:**
+`Agatha` → `Book 8` → `Tipid` → `Primal Engine`
+
+She wants to free the Eulogist — the dormant consciousness the Primal Engine was built around. The graph places her 3 hops from the thing she has spent centuries trying to reach, closer than almost any Floor 12 survivor except Tipid (1 hop) and Eris (1 hop, direct).
+
+**Why Justice Light is her semantic twin:** The graph flagged them `semantically_similar_to` — both operate on timescales that dwarf the crawl, both treat individual crawlers as instruments of a larger plan, and both built their strategy around voluntary sacrifice (Justice Light with Juice Box; Agatha with Carl as the eventual instrument for freeing the Eulogist). The key difference the graph does not capture: Justice Light knew exactly what his sacrifice would cost. Agatha may not.

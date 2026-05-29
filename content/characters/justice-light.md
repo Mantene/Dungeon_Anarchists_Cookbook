@@ -78,3 +78,21 @@ His 8th edition entries were filled with guilt over the NPC he killed in anger e
 ## Source References
 
 - [Book 7: This Inevitable Ruin](../sources/book-7-this-inevitable-ruin.md)
+
+---
+
+## AI Connection Corner
+*AI inferences based on the actual text of the books*
+
+**Graph degree: 2** — the lowest of any major character in the wiki, but those 2 edges are load-bearing.
+
+**Connections found:**
+- `conceptually_related_to` ← [Rosetta Thagra](rosetta.md) `[INFERRED]`
+- `semantically_similar_to` → [Agatha](agatha.md) `[INFERRED]`
+
+**The death chain — 4 hops to Floor 12:**
+`Justice Light` → `Rosetta` → `Book 8` → `Scolopendra` → `Floor 12`
+
+His death — burned by Emberus to break the Nothing — reverberates forward through Rosetta (who carries his plan) to Scolopendra's awakening, to every survivor standing on Floor 12. He never set foot on Floor 12. Structurally, he is four steps from all of them.
+
+**Why Agatha is his nearest semantic twin:** The graph flagged Justice Light and Agatha as `semantically_similar` — both are long-game cosmic actors operating on timescales measured in crawl editions rather than floors. Both sacrificed something essential (Justice Light his life, Agatha her faction's cover) to push events toward a predetermined end. His degree-2 network means everything he set in motion flows through exactly two people. He built a sparse graph on purpose: the fewer nodes know, the harder it is to stop.

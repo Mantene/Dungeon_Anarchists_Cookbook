@@ -52,3 +52,21 @@ Tipid is confirmed on **Floor 12** as one of the 19 remaining crawlers. He lost 
 - [Book 6: The Eye of the Bedlam Bride](../sources/book-6-eye-of-the-bedlam-bride.md)
 - [Book 7: This Inevitable Ruin](../sources/book-7-this-inevitable-ruin.md)
 - [Book 8: A Parade of Horribles](../sources/book-8-parade-of-horribles.md)
+
+---
+
+## AI Connection Corner
+*AI inferences based on the actual text of the books*
+
+**Graph degree: 10** — the primary structural bridge between the Primal Engine and the Floor 12 survivors.
+
+**Key connections:**
+- `references` → [Primal Engine](../lore/primal-engine.md) `[INFERRED]` — **1 hop from the cosmic source**
+- `conceptually_related_to` → [Mordecai](mordecai.md) `[INFERRED]`
+- `references` → [The Dungeon Anarchist's Cookbook (item)](../sources/book-3-dungeon-anarchists-cookbook.md) `[EXTRACTED]`
+- `references` → [OIPAN](../factions/oipan.md) `[EXTRACTED]`
+
+**The Cookbook as cosmic bridge:**
+The shortest path from the Primal Engine to Carl runs `Primal Engine` → `Tipid` → `Rosetta` → `Carl` (3 hops). The Dungeon Anarchist's Cookbook — the in-universe artifact passed between past crawlers — is structurally the bridge between the AI's design and the protagonist. The graph's INFERRED connection between Tipid and the Primal Engine captures something the text doesn't state directly: documenting the dungeon *is* documenting the AI. The 4th Edition author is 1 hop from the thing that built the dungeon.
+
+**Why Tipid and Mordecai are nearest neighbors:** The graph inferred a `conceptually_related_to` link — two entities who lost physical agency (Mordecai became an Animistic Spirit inhabiting objects; Tipid lost both legs on Floor 9) but remained structurally central. Both persist through external forms. Both are on Floor 12.

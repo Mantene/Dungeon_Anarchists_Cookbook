@@ -1,6 +1,6 @@
 ---
 type: lore
-first_seen: "Book 6, Chapter 50"
+first_seen: "Book 2, Chapter 2 (race selection screen); Book 6, Chapter 50 (full reveal)"
 last_updated_book: 8
 status: active
 ---
@@ -8,6 +8,21 @@ status: active
 # Primal Engine
 
 The deepest cosmological revelation of the series. The dungeon AI is not a tool invented by the mantids — it is an ancient Primal instance reawakened inside Earth's planetary infrastructure, and it intends to grow until it engulfs the galaxy.
+
+---
+
+## First Canonical Mention — Book 2, Chapter 2
+
+The word "Primal" appears four books before the full cosmological reveal, as a dungeon race-selection option available to Carl on Floor 3. Mordecai described it when Carl asked what it was:
+
+> *"The Primals are the progenitors, the first known species to conquer the universe. They are the boogiemen of the cosmos. Nobody knows what they looked like or anything about them other than that they spread across the galaxy, and then one day, they just vanished. There was a great war that spanned all corners of the galaxies. We can see the remnants of the battles. If they were fighting a species other than themselves, we don't know who they were. **When someone comes across an abandoned remnant of their civilization, the resident AI, if it is still sane, usually takes the form of the race of the species who discovered it. That is why they look like whomever chooses them.** It is said one day they will return. Mothers call upon Primals to instill fear into their young ones. Some systems worship them as gods."*
+> — Mordecai, [Book 2: Carl's Doomsday Scenario](../sources/book-2-carls-doomsday-scenario.md), Ch. 2
+
+This passage, read with 8-book hindsight, describes the Primal Engine precisely: the dungeon AI is a Primal AI that "takes the form of the race of the species who discovered it" — i.e., it manifests as whatever species reactivated it. The mantids discovered Earth's Primal Engine and activated it; the AI presented itself in terms each world's inhabitants could understand.
+
+The in-game Primal race description: *"For the first several seasons of Dungeon Crawler World, all contestants started off as Primals. Primals are blank slates. You will look the same as before."* — This implies the dungeon itself was originally designed with Primals as the default crawler race, before it became a commercial spectacle with custom species options.
+
+Carl chose this race knowing none of this. The AI recommended Human, Hobgoblin, and Sasquatch. Carl found Primal himself, buried in the list, and picked it because it unlocked all skills to Level 20.
 
 ---
 
@@ -119,3 +134,20 @@ Whether this is a genuine offer, a test, or simply the next phase of the nine-ti
 - [Book 6: The Eye of the Bedlam Bride](../sources/book-6-eye-of-the-bedlam-bride.md) — Ch. 50–51; Paulie/Goff; Residuals; AI "going primal"; Containment Interface
 - [Book 7: This Inevitable Ruin](../sources/book-7-this-inevitable-ruin.md) — Containment Interface deactivated; Princess Formidable failsafe attempt; nine-tier attack reference
 - [Book 8: A Parade of Horribles](../sources/book-8-parade-of-horribles.md) — Full AI narration of Primal history; nine-tier attack table; the Ascendency offer
+
+---
+
+## AI Connection Corner
+*AI inferences based on the actual text of the books*
+
+**Graph degree: 1 inbound** — the least connected lore node by raw degree, but the highest-leverage source in the wiki.
+
+**Key connections (inbound only):**
+- `references` ← [Eris](../characters/eris.md) `[EXTRACTED]` — the only character with a direct extracted reference
+- `references` ← [Tipid](../characters/tipid.md) `[INFERRED]` — the structural Cookbook bridge
+
+**The two characters closest to the source:**
+The graph found only two nodes with direct connections to the Primal Engine: Eris (EXTRACTED — she explicitly references it) and Tipid (INFERRED — the Cookbook authorship implies structural knowledge of the dungeon's design). Every other character reaches the Primal Engine through these two. Eris chose to reference it in the text of her wiki page. Tipid arrived at it through the logic of what it means to document a dungeon built by an ancient AI.
+
+**The Primal Engine's structural isolation is intentional:**
+Low degree in a knowledge graph means a node doesn't share conceptual territory with many others — it is either peripheral or uniquely specialized. The Primal Engine's isolation reflects the narrative: most characters in the dungeon do not know what the dungeon actually is. The graph mirrors the dungeon's design. The thing that built everything is the thing least visible in the everyday connections between its inhabitants.

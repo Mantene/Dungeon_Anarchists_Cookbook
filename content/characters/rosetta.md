@@ -73,3 +73,22 @@ She then used Rust's retina scan and bank PIN to complete a massive financial tr
 - [Book 6: The Eye of the Bedlam Bride](../sources/book-6-eye-of-the-bedlam-bride.md)
 - [Book 7: This Inevitable Ruin](../sources/book-7-this-inevitable-ruin.md)
 - [Book 8: A Parade of Horribles](../sources/book-8-parade-of-horribles.md)
+
+---
+
+## AI Connection Corner
+*AI inferences based on the actual text of the books*
+
+**Graph degree: 9** — the highest-degree Floor 12 survivor among character pages (excluding Carl).
+
+**Key connections:**
+- `references` → [Carl](carl.md) `[EXTRACTED]`
+- `references` → [Tipid](tipid.md) `[EXTRACTED]`
+- `conceptually_related_to` → [Justice Light](justice-light.md) `[INFERRED]`
+- `conceptually_related_to` → [Agatha](agatha.md) `[INFERRED]`
+- `semantically_similar_to` → [Odette](odette.md) `[INFERRED]`
+
+**The hub of the cosmic-to-survivor chain:**
+Every shortest path from Justice Light, the Primal Engine, or the Nothing to Carl runs through Rosetta. She sits at the exact intersection of the Cookbook authors (Tipid), the cosmic planners (Justice Light), and the endgame (Carl on Floor 12). Her 9-degree hub position is what makes the Homecoming Queen network so structurally significant — it isn't just about the plan, it's about who the plan's information flows through.
+
+**Why Rosetta and Odette are semantically similar:** The graph inferred a `semantically_similar_to` link — both women fundamentally altered their form to serve a longer plan. Odette became Nekhebit, sacrificing her identity as a living being to enter the dungeon as an NPC contestant. Rosetta spent years as a Homecoming Queen operative, building toward a single decisive act (King Rust's death) she had been planning since before the current crawl began. Neither is what they first appeared to be.

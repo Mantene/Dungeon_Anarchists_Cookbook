@@ -24,6 +24,20 @@ He keeps a framed photo of his brother (in Skyfowl form) and his mother's ashes 
 
 He was trained by [Odette](odette.md) during her own crawl — see the **Odette/Uzzi revelation** below for the full history. His hatred of Odette is one of the most important unresolved threads in the series.
 
+### The Brother — Exact Origin of the Hatred (Book 1 Raw Text)
+
+This detail is established in Book 1 but easy to miss. In Ch. 29, discussing race and class selection:
+
+> *"I almost chose a skyfowl class, something called a Storm Commander. But Odette talked me out of it. My brother ended up picking it instead, on her recommendation."*
+
+And in the Book 1 Epilogue, Odette herself says about her history with Mordecai:
+
+> *"I pushed him too hard, and he paid dearly for it."*
+
+Read together: Odette steered Mordecai away from his species' native class (Storm Commander), then recommended his *brother* take it. The brother died. Mordecai's reaction to Odette's request that he seek her out: *"I would rather spend another 2,000 years in this room than exist in the same solar system as her. I'd rather meet a woman, sire children, and then devour those children than have anything to do with her again."*
+
+The framed photo on his shelf is his brother — not just a decoration. His mother's ashes are also in that room. He is carrying both of his dead family members with him across every dungeon world he's forced to serve in. Odette's guilt over the brother is the engine behind her desire to reconcile.
+
 ---
 
 ## Book 1
@@ -123,3 +137,27 @@ He presumably traveled with Carl and Donut to Floor 12 in this form — inhabiti
 - [Book 6: The Eye of the Bedlam Bride](../sources/book-6-eye-of-the-bedlam-bride.md)
 - [Book 7: This Inevitable Ruin](../sources/book-7-this-inevitable-ruin.md)
 - [Book 8: A Parade of Horribles](../sources/book-8-parade-of-horribles.md)
+
+---
+
+## AI Connection Corner
+*AI inferences based on the actual text of the books*
+
+**Graph degree: 16** — the highest of any character page in the wiki.
+
+**Key connections:**
+- `references` → [The Nothing](../lore/the-nothing.md) `[INFERRED]`
+- `conceptually_related_to` ← [Tipid](tipid.md) `[INFERRED]`
+- `references` → [Syndicate Legal Framework](../lore/syndicate-legal-framework.md) `[EXTRACTED]`
+- `references` → [Borant Corporation](../factions/borant.md) `[EXTRACTED]`
+- `references` → [Core Game Systems](../mechanics/core-game-systems.md) `[EXTRACTED]`
+- `conceptually_related_to` ← [Princess Chandra](chandra.md) `[INFERRED]`
+
+**The connective tissue of the entire series:**
+Mordecai is referenced by all 8 books — only Carl and Donut share this span. His degree-16 position means he functions as a structural hub: character pages, lore pages, mechanics pages, and faction pages all connect through him. He is the character the graph uses most frequently as a relay node.
+
+**The INFERRED link to the Nothing:**
+The graph detected a semantic relationship between Mordecai's successive bindings (species-bonded, Moon Reaper, Shadow Mimic, Animistic Spirit) and the Nothing as a cosmic prison. Both are systems of forced containment where the contained entity adapts to its vessel. His loss of physical form mirrors the Nothing's function as a void that holds things without destroying them. This connection is INFERRED — not stated in the text — but the graph found it independently.
+
+**Why Tipid is his nearest neighbor among character pages:**
+`Tipid` → `Mordecai` is a 1-hop `conceptually_related_to` link. Two bound entities who lost physical agency but remained structurally central. Mordecai inhabits objects; Tipid lost his legs. Both persist through what they carry rather than what they are.
