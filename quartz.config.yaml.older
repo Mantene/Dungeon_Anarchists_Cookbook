@@ -56,7 +56,7 @@ plugins:
       theme:
         light: github-light
         dark: github-dark
-      keepBackground: true
+      keepBackground: false
     order: 20
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
@@ -212,7 +212,7 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: true
+    enabled: false
     options:
       provider: giscus
       options: {}
@@ -223,10 +223,10 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/Mantene/Dungeon_Anarchists_Cookbook
-        Discord Community: https://discord.com/invite/GS5BBvdfYa
+        GitHub: https://github.com/jackyzha0/quartz
+        Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
-    enabled: true
+    enabled: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -260,8 +260,10 @@ plugins:
     enabled: true
     options:
       enableCopyTool: false
-  - source: github:saberzero1/quartz-themes
-    subdir: plugin
+  - source:
+      name: quartz-themes
+      repo: github:saberzero1/quartz-themes
+      subdir: plugin
     enabled: true
     options:
       theme: its-theme
