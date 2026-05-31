@@ -215,7 +215,12 @@ plugins:
     enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: Mantene/Dungeon_Anarchists_Cookbook
+        repoId: R_kgDOSq3Zhw
+        category: Announcements
+        categoryId: DIC_kwDOSq3Zh84C-Neo
+        lang: en
     layout:
       position: afterBody
       priority: 10
