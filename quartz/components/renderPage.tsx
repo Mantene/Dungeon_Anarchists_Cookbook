@@ -2,6 +2,7 @@ import { render } from "preact-render-to-string"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import BodyConstructor from "./Body"
 import AnalyticsConstructor from "./Analytics"
+import SpeedInsightsConstructor from "./SpeedInsights"
 import {
   CSSResource,
   JSResource,
@@ -335,6 +336,7 @@ export function renderPage(
   } = components
   const Body = BodyConstructor()
   const Analytics = AnalyticsConstructor()
+  const SpeedInsights = SpeedInsightsConstructor()
   const frame = resolveFrame(frameName)
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
@@ -372,6 +374,7 @@ export function renderPage(
         .filter((resource) => resource.loadTime === "afterDOMReady")
         .map((res) => JSResourceToScriptElement(res, true))}
       <Analytics {...componentData} />
+      <SpeedInsights {...componentData} />
     </html>
   )
 
