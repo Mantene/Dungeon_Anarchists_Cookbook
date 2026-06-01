@@ -1,39 +1,32 @@
 ---
 type: character
-first_seen: "Book 1, Chapter 20"
-last_updated_book: 4
-status: dead
+title: "Frank Q"
+tags: [crawler, night-elf, murderer, antagonist, deceased-fate]
+related: [rebecca-w, carl, princess-donut, maggie-my, yvette, dinniman-2020-dcc, dinniman-2022-dac]
+created: 2026-05-30
+updated: 2026-05-30
+first_appearance: "Ch. 12"
+role: antagonist
 ---
 
-# Frank Q.
+# Frank Q
 
-**Occupation:** ICE (Customs Enforcement) agent, undercover  
-**Level:** 8 (Floor 1)  
-**Skulls:** Crawler Killer ×3  
-**Class:** Not assigned  
-**Partner:** [Maggie My.](frank-q.md)
+**Frank Q** is an antagonistic crawler. Formerly human, he selected the **Night Elf** race and **Blood Assassin** class.
 
-Tall, lean, ~40 years old, white, Seahawks beanie, enchanted black spiked shoulder pads, battle axe, throwing knives. Carries himself like law enforcement. Was on a surveillance operation outside a warehouse with Maggie when the Transformation hit. They entered the dungeon together; Frank killed 3 people, Maggie killed 5.
+## Background
+Before the dungeon collapse, Frank Q was a Customs Enforcement officer. He was divorced from his ex-wife, Seattle PD detective [[maggie-my]], five years prior. On the night of the collapse, their teenage daughter [[yvette]] had run away again and was detained by the Pierce County Sheriff. Frank and Maggie's brother (a sheriff's deputy) met in a parking lot at 2:00 AM, screaming at each other, when the collapse occurred. Frank choked his ex-brother-in-law during the chaos, and the brother-in-law was subsequently killed by rat-kins, yielding Frank a legendary "That's the Spirit" loot box.
 
-His story to Carl: he and Maggie were ICE agents doing a raid; the people they killed attacked first. Carl clocked the lies (Rebecca W's level 3 Apple Core in inventory proved she'd been through the tutorial guild; experience cookie showed Frank was in a live party). They tried to ambush Carl and Donut in a safe room, froze for 100 seconds (safe room rules), and Carl fled.
+## Role in the Crawl
+### Floor 1
+Frank Q is identified as the killer of [[rebecca-w]], a Level 3 crawler whom he shot and looted. Carl vowed to hunt him down. Later on Floor 1, Frank and Maggie attempted to ambush Carl and Donut. They forced Yvette to wear the **Enchanted Night Wyrm's Ring of Divine Suffering** and mark Carl for death to build her strength. The ambush failed when Carl escaped into a safe room. Yvette was mutilated by Carl's dynamite trap, and because she could not heal due to the ring's curse, Maggie choked Yvette to death to end her suffering and clear the mark.
 
-Carl booby-trapped a rat corpse with lit dynamite. Unknown if it killed them.
+### Floor 2 to 4
+Frank and Maggie had a severe falling out over Yvette's death and Carl. Maggie blocked Frank on the system interface. Frank fell behind, arriving on the third floor where his party abandoned him once he confessed the truth about Yvette. 
 
-By Book 1's end, Frank has the Find Crawler skill and was offered a Legendary Skill Potion by Crown Prince Maestro to upgrade it to Level 15 — giving him the ability to locate any named crawler anywhere in the dungeon.
+By Floor 4, Frank is a Level 17 Night Elf Blood Assassin, missing his right hand (cut off in previous conflicts). He spends his time drinking heavily at the Desperado Club at Station 41. 
 
-**Known skills:** Find Crawler (offered upgrade to level 15), stealth (both Frank and Maggie can go translucent/invisible on the map)
+## Encounter with Carl (Chapter 94)
+In Chapter 94, Carl confronts Frank Q at the Desperado Club. Frank is drunk and non-hostile. He gives Carl the **Enchanted Night Wyrm's Ring of Divine Suffering** as a form of psychological "revenge," hoping the ring's corrupting power and dangerous curse will ruin Carl just as it ruined his own family. Frank believes his crawl is effectively over.
 
-**Threat level:** High. Has a motive, powerful tracking skill, and a patron (the Maestro) who wants Carl dead.
-
-## Books 2–4
-
-Frank and Maggie survived Floor 1. On the Iron Tangle (Floor 4), **Maggie My** was revealed to be an alien Infiltrator race who had taken over Chris Andrews 2's body. Frank, who had been genuinely working with Maggie and didn't know her true nature, was killed by the Maggie-controlled Chris sometime during the Iron Tangle events. He dropped the **Ring of Divine Suffering** upon death — Carl looted it despite Mordecai's strong warnings.
-
-A totem card version of Frank called **"Leveled-Up Frank"** appeared as one of the hydra boss options in Book 6 (Floor 8 keymaster). Carl refused to keep or use it, saying it wasn't right to let them use a person that way. The card disappeared on its own.
-
-> [!warning] Status correction
-> Frank Q is **DEAD** as of Book 4. His old status of "alive (hostile)" is no longer accurate.
-
-## Source References
-- [Book 1: Dungeon Crawler Carl](../sources/book-1-dungeon-crawler-carl.md)
-- [Book 4: The Gate of the Feral Gods](../sources/book-4-gate-of-the-feral-gods.md)
+## Graphify Deductions
+- **Psychological Corruption**: Frank Q's trajectory represents the tragic self-destruction of crawlers who succumb to the system's incentives for PvP violence. The guilt of Yvette's death, coupled with social isolation and physical maiming, reduced him from a dangerous predator to a broken, static NPC-like entity waiting for his own demise in the Desperado Club.

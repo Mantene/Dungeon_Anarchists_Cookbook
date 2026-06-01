@@ -1,52 +1,37 @@
 ---
 type: character
-first_seen: "Book 6, Chapter 5"
-last_updated_book: 6
-status: freed (card ripped — died in peace)
+title: "Paz Lo"
+tags: [character, book-6]
+related: [dinniman-2023-ebe, anton-lopez, sister-ines-quiteria, ogun, carl, princess-donut]
+created: 2026-05-31
+updated: 2026-05-31
+first_appearance: "Book 6 Chapter 5"
+role: supporting
 ---
 
 # Paz Lo
 
-**Race:** Human  
-**Class:** Santero (worships Ogun, god of blacksmiths; can't be charmed; weapons hit harder)  
-**Level:** 45 (at meeting); 101 as a card ("God Predator")  
-**Party:** Solo (Anton dead, Sister Ines separated)  
-**Origin:** Cuba
+**Paz Lo** was a human crawler who was part of Team Sister Ines on Floor 8. He was converted into a T'Ghee card totem by [[sister-ines-quiteria|Sister Ines]], and later became the first crawler to slay a deity.
 
----
+## Biography and Role
 
-## Background
+Paz Lo is the cousin of [[anton-lopez]]. On Earth, he and Anton were prison guards in a Cuba women's prison, where they guarded the convicted serial killer [[sister-ines-quiteria]]. Due to her passive *Toxoplasmosis* trait, they became intensely protective of her. They entered the dungeon together with a larger group (including [[elian]]), but only the three of them survived the sixth floor.
 
-Paz Lo was a prison guard at a women's facility in Havana. He and his cousin Anton Lopez were both guards when the Transformation happened; Sister Ines Quiteria was an inmate (serial killer nun). All three entered the dungeon together. Over time, Sister Ines's passive racial mind-control ability charmed them both — making them feel protective of her and forget why they had worshipped Ogun to resist it.
+Paz worshipped the god [[ogun]] and possessed a highly dangerous directional self-destruct spell that would kill him if cast. 
 
-Paz was heavily armored (silver plate that looked raised on platform boots, making him look taller; backwards baseball cap). Wide-eyed and frequently terrified. Despite the fear, genuinely brave.
+### Ogun's Wrath and Cardification
+In Book 6, Chapter 15, the group bypasses Ogun's shrine, causing the god to physically manifest in Havana. In Chapter 16, Ogun crushes Anton to death and strikes Paz with a permanent, un-healable "Inevitable" health-drain smite. While dying in the temple, Paz reveals Ines's true identity as "The Reaper of Havana" to Carl. Rather than letting Paz die from the smite, Sister Ines uses a T'Ghee squad flag to convert Paz (at less than 5% health) into a Common (green) card totem.
 
----
+### Climax: Slaying a Deity
+In Chapter 67, Ysalte plays the *Raid Stash* card to steal cards from the crawlers' decks, summoning Paz Lo to fight for her. Katia locks Paz in a shield jail, and before his card times out, she hands him the *Bolt of Ophiotaurus* (a divine projectile). Paz plunges the bolt into Ysalte's eye and triggers his directional self-destruct spell. 
 
-## Book 6
+The concentrated blast decapitates the goddess [[ysalte|Ysalte]], permanently killing her in the realm. The system awards Paz Lo the credit for the kill. His card is upgraded to **The God Predator** (Level 101, Epic/Former Crawler). 
 
-**The Thorn Room:** Ogun appeared after Carl repaired Yemaya's shrine instead of Ogun's. The god removed his divine protection from Paz, giving him a permanent fatal debuff. Before Paz died, he used his final moments to warn Carl about Sister Ines's passive mind-control ability — telling him everything, knowing she would be nearby and that he was dying anyway.
+Following the battle, Donut rips the card in Chapter 72 at Katia and Carl's request, releasing Paz Lo's soul from the card permanently.
 
-Sister Ines, unable to accept Paz's death, stabbed him with a T'Ghee flag — turning him into a card against his will. He became: **Paz Lo, The God Predator, Level 101 Former Crawler.**
+## Attributes
+- **Affiliation**: Team Sister Ines (former squad member)
+- **Deity Worshipped**: [[ogun]] (formerly)
+- **Status**: Deceased (soul set free by ripping card)
 
-He was used as a totem in the Book 6 climax battle. When Katia handed him the Bolt of Ophiotaurus, he understood what it was for. He threw the bolt and **beheaded the goddess Ysalte**, killing a deity — then sacrificed himself to concentrate the explosion on her neck, killing her definitively. He was granted credit for the kill. He is marked for death by all gods (except Ysalte's enemies).
 
-Donut ripped his card at the end of the floor. He did not receive a player killer skull from the rip. He was freed.
-
-> [!warning] Paz's last words
-> As he was dying (before the card): *"Let me go. It's okay. Please, it's okay. I just asked for forgiveness, and I think it was given. My soul is at peace."*  
-> Carl held his hand and nodded. He put away the healing potion.
-
----
-
-## Relationships
-
-- **Anton Lopez** — his cousin; died before Paz; killed by Ogun
-- **Sister Ines** — prison guard colleague; her mind-control enslaved him for years; he forgave her
-- **Carl** — died trying to warn him about Sister Ines; Carl honored his request to let him go
-
----
-
-## Source References
-
-- [Book 6: The Eye of the Bedlam Bride](../sources/book-6-eye-of-the-bedlam-bride.md)

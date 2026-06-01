@@ -1,57 +1,29 @@
 ---
 type: character
-first_seen: "Book 5"
-last_updated_book: 8
-status: alive (outside dungeon; survived assassination attempt)
+title: "Quasar"
+tags: [civilian, alien, supporting, book-5]
+related: [dinniman-2023-tbm, carl, orren]
+created: 2026-05-30
+updated: 2026-05-30
+first_appearance: "Ch. 148"
+role: supporting
 ---
 
 # Quasar
 
-**Race:** Null (gray alien — what humans call "grays"; has large head, big black eyes, small body, bald, wrinkly skin)  
-**Role:** Carl's attorney; negotiated the Faction Wars spot for Carl and Donut  
-**Personality:** Brash, crude, wildly inappropriate, deeply competent; vapes constantly (a square of smoke follows him as a holo)  
-**Tie:** Famous for wearing ties with novelty patterns — hula girl alien, pickles in sunglasses, etc.
+**Quasar** is a gray alien of the Nullian (or "Null") race who serves as [[carl]]'s designated defense attorney. 
 
----
+## Appearance & Personality
+- **Visuals**: Quasar is about four and a half feet tall, resembling a stereotypical gray alien with gray skin, a bulbous head, and large eyes. He wears a tan suit with a tie depicting a winking, gyrating Nullian hula girl.
+- **Mannerisms**: Unlike other Forsoothed/Nullians, Quasar speaks with a gritty, rapid-fire New York accent. He frequently smokes a pixelated holographic vape pen.
+- **Professional Outlook**: Quasar is highly cynical about the Syndicate legal system, describing himself as the "condom" that keeps Carl from getting even worse diseases while getting screwed over by the corporate hierarchy.
 
-## Background
+## Actions & Representation
+- **Chapter 148 (Book 5)**: When Carl demands a lawyer in liaison [[orren]]'s office, Quasar appears as a hologram. He immediately warns Carl not to touch the Gate of the Feral Gods while under administrative lock (as it would delete the items).
+- **The Collateral Deal**: He negotiates the compromise: Carl surrenders the winding box to Orren in exchange for a receipt and four free mercenaries ([[bomo]], [[the-sledge]], [[clay]], and [[very-sullen]] - wait, Clay-ton is referred to as Clay-ton in Book 5, though clay in Book 4 is Dromedarian). Quasar also secures two powerful spells (*Teleport to Stairwell* and *Zerzura*) bound to the mercenaries, forcing the Syndicate to return the Gate on Floor 9 to prevent Carl from keeping the spells permanently.
 
-Quasar is a Null attorney — the Null are a race of gray aliens who commonly appear at Earth in UFO lore as "grays." He and his people were apparently doing unauthorized site-seeing trips and reconnaissance on Earth for centuries, which the AI's Book 6 achievement description acknowledges as the origin of alien urban legends.
-
-He was hired by Carl after the Faction Wars deal required legal representation. His appearance is always as a hologram — he's never physically present in the dungeon.
-
----
-
-## Key Actions
-
-**Book 5:** Negotiated the Faction Wars warlord spots for Carl and Donut, using fan club funding. Made the deal work.
-
-**Book 6:**
-- Appeared uninvited (via emergency contract clause) when the caprid liaison Harbinger was present at the Shadow Boxer interview. Verbally sparred with Harbinger, calling him a "walking shawarma skewer."
-- Advocated for Baroness Victory as adjutant (gave her thumbs up, Drick thumbs down, Ripper vehement thumbs down)
-- Was present when Orren pulled Carl from the homeless shelter and confiscated the OIPAN benefactor box; witnessed the conversation about the Residuals
-- Was present at the Faction Wars preproduction meetings
-
-He keeps hitting on Rosetta Thagra, asking how his hair looks whenever she's mentioned.
-
----
-
-## Relationships
-
-- **Carl** — client; Quasar genuinely seems to like him
-- **Harbinger** — despises this liaison; has filed numerous complaints
-- **Rosetta** — has a crush on her
-
----
-
-## Book 8
-
-**The Assassination Attempt:** Princess Chandra (the naga lawyer who invoked Widow's Rights on Carl) sent **Taurin assassins** to kill Quasar — eliminating Carl's deal lawyer as part of her legal campaign. The assassins were killed by **Tempest**, Quasar's niece (a nullian, carrying an illegal blaster). Quasar survived.
-
-He remains Carl and Donut's attorney for Floor 12 negotiations.
-
-## Source References
-
-- [Book 5: The Butcher's Masquerade](../sources/book-5-butchers-masquerade.md)
-- [Book 6: The Eye of the Bedlam Bride](../sources/book-6-eye-of-the-bedlam-bride.md)
-- [Book 8: A Parade of Horribles](../sources/book-8-parade-of-horribles.md)
+## Personal Life (Book 7)
+- **[[297-book-7-recap-tempests-floor-8-school-report]]**: Quasar is shown at home being visited by his niece [[tempest]], who needs a school report on Floor 8. He makes her fix his (non-functional) sink as "payment" for information.
+- **Divorce**: His ex-wife, Aunt Nova, left him. Tempest mentions this openly ("It's no wonder Aunt Nova left you").
+- **Family**: Quasar has a brother (or brother-in-law) who is Tempest's father. Despite constant vulgar banter, his affection for Tempest is evident.
+- **Fear**: In a rare unguarded moment, Quasar admits he believes they are all in danger because of his representation of Carl, and expresses relief that they live "far out in the middle of nowhere." His philosophy: "Never give shit up for free because if you do, they'll just keep coming back to you and will expect more and more."

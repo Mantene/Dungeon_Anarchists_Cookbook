@@ -1,33 +1,26 @@
 ---
 type: character
-first_seen: "Book 1, Chapter 22"
-last_updated_book: 3
-status: dead
+title: "Brandon An (Deceased)"
+tags: [crawler, human, supporting]
+related: [chris-andrews-2, yolanda-martinez-13, imani-c, carl, princess-donut, agatha, dinniman-2020-dcc, dinniman-2021-cds]
+created: 2026-05-30
+updated: 2026-05-30
+first_appearance: "Ch. 22"
+role: supporting
 ---
 
-# Brandon An
+# Brandon An (Deceased)
 
-**Occupation:** Maintenance worker, Meadow Lark eldercare facility  
-**Level:** 8 (end of Book 1)  
-**Class:** Not assigned  
-**Weapon:** Magical warhammer (massive, lightning-enhanced, comically oversized)  
-**Party:** Meadow Lark (with brother Chris Andrews 2, Imani C., and 36 elderly residents)
+Brandon An is a human crawler who was a maintenance worker at the Meadow Lark eldercare facility in Wenatchee, Washington.
 
-Chubby Black man, heavy winter jacket, level-headed and compassionate. One of the most morally steadfast characters in the series. Never seriously considered abandoning his elderly residents even when it became almost suicidal to keep them alive. Was outside the Meadow Lark facility with his brother doing overtime maintenance work when the Transformation happened.
+## Background & Collapse
+On the night of the collapse, Brandon and his brother [[chris-andrews-2]] were working overtime to repair an oven when [[agatha]] started a fire outside, forcing a full evacuation. When the dungeon opened, Brandon helped drag residents into the warm stairs to protect them from the freezing cold, but his foot was trapped, forcing him and Chris to enter the dungeon.
 
-Led the improvised "Speedbump" redoubt construction for the Ball of Swine fight. Designed the bomb placement for the shuriken spike strips. Built two versions of the "people-bucket" transportation rigs to move non-ambulatory residents.
+- **Level**: 8
+- **Weapon**: A comically large, magical lightweight war hammer that crackles with lightning.
+- **Boss Star**: Gained a bronze star for defeating the floating crystal boss in his neighborhood.
+- **Skills**: Experienced in maintenance, which he used alongside Chris and [[carl]] to build "The Speedbump" (a modular redoubt) to defeat the Borough Boss.
 
-**Brother:** [Chris Andrews 2](../characters/chris-andrews-2.md) — mostly non-verbal (not cognitively impaired, just quiet). Works alongside Brandon. Speaks rarely but memorably. Has a magic spear spell.
+## Death
+On Floor 3, Brandon An sacrificed himself to hold off a horde of Shade Gremlins, allowing [[imani-c]], [[elle-mcgibbons]], and other Meadow Lark survivors to escape. Following his death, Carl received a message in the "Messages from Deceased Crawlers" folder in Chapter 3 of Book 3 ([[078-book-3-chapter-3-well-rested]]). In the message, Brandon asks Carl to find his brother [[chris-andrews-2]] to tell him that he loves him and is sorry for their prior fight.
 
-**Location at end of Book 1:** Floor 3, with the Meadow Lark group.
-
-## Book 3 — Death
-
-Brandon was confirmed dead in Book 3. He was killed by shade gremlins on Floor 3. Chris Andrews 2 (his brother) survived.
-
-> [!warning] Status correction
-> Brandon An is **DEAD** as of Book 3.
-
-## Source References
-- [Book 1: Dungeon Crawler Carl](../sources/book-1-dungeon-crawler-carl.md)
-- [Book 3: The Dungeon Anarchists Cookbook](../sources/book-3-dungeon-anarchists-cookbook.md)

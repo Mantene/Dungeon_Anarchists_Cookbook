@@ -1,68 +1,25 @@
 ---
 type: character
-first_seen: "Book 1"
-last_updated_book: 8
-status: alive (Sheol / Floor 15; becoming a werewolf; unconscious)
+title: "Chris Andrews"
+tags: [crawler, monster, supporting]
+related: [brandon-an, yolanda-martinez-13, imani-c, carl, princess-donut, frank-q, dinniman-2020-dcc, dinniman-2022-dac]
+created: 2026-05-30
+updated: 2026-05-30
+first_appearance: "Ch. 22"
+role: supporting
 ---
 
-# Chris Andrews 2
+# Chris Andrews
 
-**Race:** Igneous (rock-like, lava-based humanoid — chosen in Book 3)  
-**Class:** Unknown  
-**Level:** Unknown (high by Book 6)  
-**Party:** Li Na's squad (Beijing, Floor 8)  
-**Relationship to Brandon:** Brothers (Brandon An was his brother — dead, Book 3)
+**Chris Andrews** (referred to in system indexes as Chris Andrews 2) is a crawler and the younger brother of the deceased [[brandon-an]]. Formerly a quiet human maintenance technician at the Meadow Lark facility, he has undergone a massive transformation in the dungeon.
 
----
+## Biography & Floor 1-3
+Chris is extremely quiet, rarely speaking. He entered the crawl when he grabbed his brother's hand as Brandon was pulled in. During the early floors, he wore a metal skullcap and could cast a spell that summoned a glowing spear of light. He helped construct the modular redoubt that wedged the Borough Boss on Floor 1.
 
-## Background
+Following his brother Brandon's tragic sacrifice at the end of Floor 3, Chris selected a stone/rock monster race at the transition to Floor 4. 
 
-Chris was Brandon An's brother — both worked maintenance at the Meadow Lark facility. Chris was nearly non-verbal (not cognitively impaired, just quiet). He had a magic spear spell on Floor 1.
+## Assassination of Frank Q (Chapter 95)
+In Chapter 95, Chris enters the Desperado Club at Station 41. He confronts and kills [[frank-q]], avenging both the general threat Frank posed and potentially the murders Frank committed. Chris then silently walks out and is subsequently banned from the club. Carl is deeply shocked by this sudden, proactive violence from the once-passive Chris.
 
-On Floor 3, he chose the Igneous race, becoming a rock/lava creature.
-
----
-
-## The Maggie My Possession (Books 3–5)
-
-The major plot thread involving Chris: **Maggie My** — Frank Q's partner, who turned out to be an alien Infiltrator race — took over Chris's body on the Iron Tangle (Floor 4). Maggie was inside Chris's body, controlling him, for almost two full books.
-
-Mordecai worked on an extraction potion throughout Floor 4–5 (required "vile dill" as an ingredient). The Maggie-controlled Chris remained in a flooded subterranean chamber under Hump Town for much of this time.
-
-Resolution (Book 5 end): Maggie My was likely expelled when the subterranean chamber flooded. Chris's status was uncertain at the end of Book 5.
-
-By Book 6, Chris is with Li Na's squad in Beijing and is confirmed free of Maggie. He made dry jokes (Florin asked if he was doing okay; Chris said "I'm solid"). He used a wand Carl lent him during the Havana battle (shrink wand — he zapped enemies with it during the final FOSCA building fight to reduce their size).
-
----
-
-## Book 6
-
-With Li Na's squad in China during Phase 1. Successfully obtained a key. In the Havana battle during Phase 3, he helped clear debris and held the wand Carl gave him. Made it to Floor 9.
-
----
-
-## Relationships
-
-- **Brandon An** — brother, dead (Book 3); Chris survived
-- **Li Na** — current squad leader; he functions well in her group
-- **Carl** — allies; Carl trusted him with the shrink wand
-
----
-
-## Books 7–8
-
-**Floor 9 (Book 7):** Chris made it to Floor 10 along with the main group. Confirmed in the survivors list.
-
-**Floor 10 — The Pineapple Cabaret (Book 8):** Chris used the unofficial Pineapple Cabaret exit organized by Li Na. For most crawlers, it led to the surface. For Chris (along with Louis Santiago and Britney), it went wrong — they ended up in **Sheol (Floor 15)** instead.
-
-**Scolopendra's first attack:** During the Floor 11 arena fight, Scolopendra's first attack triggered. Chris was affected — partially transformed into a **werewolf**. He had to be knocked unconscious by Louis and Britney to prevent him from attacking.
-
-**Current status:** Alive in Sheol with Louis (gills) and Britney; undergoing werewolf transformation; unconscious.
-
-## Source References
-
-- [Book 1: Dungeon Crawler Carl](../sources/book-1-dungeon-crawler-carl.md)
-- [Book 4: The Gate of the Feral Gods](../sources/book-4-gate-of-the-feral-gods.md)
-- [Book 5: The Butcher's Masquerade](../sources/book-5-butchers-masquerade.md)
-- [Book 6: The Eye of the Bedlam Bride](../sources/book-6-eye-of-the-bedlam-bride.md)
-- [Book 8: A Parade of Horribles](../sources/book-8-parade-of-horribles.md)
+## Graphify Deductions
+- **Grief-Induced Metamorphosis**: Chris's physical transformation into a rock monster mirrors his emotional hardening following Brandon's death. His silent, targeted execution of Frank Q shows he has abandoned his passive, caretaker role to become a proactive and deadly agent of vengeance.

@@ -1,103 +1,28 @@
 ---
 type: character
-first_seen: "Book 1, Chapter 28"
-last_updated_book: 8
-status: active (inside dungeon as Nekhebit; competing in the Ascendency, Floor 12)
+title: "Odette"
+tags: [host, alien, human, supporting]
+related: [carl, princess-donut, lexis, mordecai, dinniman-2020-dcc]
+created: 2026-05-30
+updated: 2026-05-30
+first_appearance: "Ch. 27"
+role: supporting
 ---
 
 # Odette
 
-**Species:** Human (from a different seeded world; same species as crawlers from seeded planets)  
-**Former role:** Host of *Dungeon Crawler After Hours with Odette* (most-watched private program in galaxy history); show on hiatus as of Book 6  
-**Current role:** Inside the dungeon, sponsored the goddess **Nekhebit** (Egyptian vulture goddess) for the Celestial Ascendency  
-**Physical:** Legless (lost legs to a Fiend Scythe on Floor 11; never got them regrown — it felt "wrong" given what happened). Uses a magical hovering wheelchair. On-screen wore elaborate crab-taur costume. Off-camera: just the crab body as her lower half, which is the real extent of her "costume."
-
----
+Odette is the host of the highly popular private broadcast *Dungeon Crawler After Hours with Odette*, which tunnels immediately after the main *Dungeon Crawler World* episodes.
 
 ## Background
+Odette is a former crawler who reached the 13th floor during her crawl. She lost her legs to a Fiend Scythe on Floor 11 and used a legendary item (a black belt) to graft a giant king crab body onto her waist as legs to continue. She was [[mordecai]]'s trainer during his crawl.
 
-Former crawler who reached Floor 11. Took an exit deal. Became indentured as a game guide, then Mordecai's manager. Now the most-watched private entertainment host in the galaxy. Her indenture ended; she built the show to amass influence and money.
+## On-Camera Persona vs Reality
+- **On-Camera**: She presents herself as a half-crab, half-praying mantis creature with a bug helmet, mantis eyes, and a voluptuous human torso with comically oversized, gravity-defying breasts. 
+- **Off-Camera**: The mantis head is a helmet, the breasts are fake props, and she is a 60-year-old legless human woman who floats in a buzzing, hover-wheelchair. The giant crab body is a real crab she must kill a fresh copy of before every broadcast, which she hides from animal rights groups.
 
-**Key advice given to Carl/Donut (Book 1):**
-- Don't change Donut's race
-- Loot boxes are not random — sponsor-influenced
-- Listen to Mordecai's class/race hints
-- "Never trust someone unless you know what they're getting out of it"
-- Donut picks race first on Floor 3
-- Get a pathfinder or mapping skill (crucial for lower floors)
-- "Everything is a stat. Just because you can't see it doesn't mean it's not really there."
-
-**She orchestrated the Manager Benefit deception.** Before Carl and Donut entered Floor 3, Odette gave Carl detailed instructions for how to trick Mordecai into the Manager Benefit via Donut's class choice. Her exact words (recalled in Book 2, Ch. 2):
-
-> *"If you do pick the Manager benefit, and it's not attached to an obvious choice, you'll want to make it look like a mistake. Don't ask him about it, because once he tells you what it is, it'll be too late. He won't be allowed to tell you unless you ask. Make it look like it was all Donut's idea, and you didn't have anything to do with it. Mordecai can hold a grudge, but he still sees Donut as a child. He'll forgive her. If he ever found out you did this on purpose, he would never forgive you."*
-
-She knew which class had the Manager Benefit attached, knew Mordecai couldn't disclose it unless asked directly, and planned the entire deception so Carl would remain the beneficiary without being implicated. Her stated reason: *"Mordecai has been in the dungeon for a very long time, and that brain of his is the single greatest resource any crawler can have."* Her unstated reason: Mordecai's permanent management meant more of his survival-increasing expertise flowing to Carl, which meant longer interviews, which meant more money for her.
-
-**She admitted lying about interview costs (Book 2 Epilogue).** After warning Carl about Hekla: *"I lied earlier when I said I was paying an exorbitant amount to get you two on the show. When I bought your rights, it was very early, and you were very cheap. I paid less for the entire season of interviews than one pays to get you two on right now."* She volunteers this confession immediately after giving a real warning — her pattern of mixing deceptions with genuine help.
-
-**She drugged Donut's cat treats.** Before the first interview, she put a substance in the treat bag that temporarily raised Donut's wisdom and confidence stats by 1.5 points. She admitted this openly when Carl confronted her: *"It was in her cat treats. It's temporary. It increased her wisdom and a few confidence stats by a point and a half. Not much. It makes for a better interview. It's no different than drinking a glass of strong wine."* She did not deny it or apologize.
-
-**Cut-off advice (Book 1 Epilogue — never completed).** At the very end of the Book 1 epilogue, before Carl and Donut descend to Floor 3, Odette began a final piece of advice:
-
-> *"It's just a suggestion. I don't know if, morally, this is a good idea or not, but this will greatly increase your chances of survival. It's something to look for during class selection. It's generally only offered to crawlers with a high charisma, so if it's available, it'll be hidden somewhere amongst Donut's choices. The problem is, if you pick it, it's going to make someone very angry."*
-
-The book ends. She never finishes the sentence. What she was about to recommend — a hidden high-CHA class for Donut that makes "someone very angry" — is the most significant unresolved mystery seeded in Book 1. Given Donut's eventual path (Character Actor, Assassin of Sekhmet), the "someone very angry" is likely the entire sponsor network or the Borant Corporation.
-
----
-
-## The True Story (Revealed Book 6)
-
-Odette told Carl the full truth about Mordecai in a private off-record conversation:
-
-She was Mordecai's manager on his 10th floor. She made an **illegal deal with Huanxin Jinx** (grixist heiress) to rig the floor — Huanxin would drive goddess Dodola to hit the puzzle. When Huanxin demanded 50% of Odette's bonus, Odette refused. Instead, she manipulated **Chaco** (Mordecai's party bard) into throwing the **Dart of Ophiotaurus** at **Uzzi** (Mordecai's brother), sacrificing him to summon and kill Dodola inside a containment circle. Mordecai made it to Floor 11. Uzzi died.
-
-Mordecai tackled Chaco into the stairwell. Chaco went on to get a God Killer achievement from Dodola's death and negotiated his own deal.
-
-After her release, Odette confessed her crime to the authorities. Armita (her friend who had facilitated the deal) was killed by Huanxin upon returning to the next season's dungeon. Odette was put on trial; her warrant was purchased by the man who became her husband.
-
-She has watched Mordecai's NPC indenture every day since. Her singular purpose: assuage guilt, protect Mordecai's eventual freedom, and destroy Huanxin.
-
-She says: *"The eye of the Bedlam Bride. I've stared into it once again. I see nothing else."*
-
----
-
-## Book 6 — Nekhebit
-
-Odette declined to be Carl's Faction Wars adjutant — she knew Huanxin was planning to use that position to exact revenge, and she refused to be manipulated. Instead she announced on air that she will **enter the dungeon as the sponsor of the goddess Nekhebit** (an Egyptian vulture goddess, tattered and scarred, with a bow and a long revenge backstory).
-
-Her stated goal: kill Huanxin and end the crawl's cruelty permanently. She believes this is a one-way trip.
-
-She told Carl: *"See you on the inside."*
-
-Mordecai does not know she is coming. When he finds out, Zev warned Carl, it will be catastrophic.
-
----
-
-## Relationships
-
-- **Mordecai** — she caused his brother's death; deeply guilty; he wants to kill her
-- **Huanxin Jinx** — direct nemesis; Odette entered the dungeon specifically to confront/kill her
-- **Carl and Donut** — she genuinely helps them, but always with her own agenda; Carl has figured this out
-- **Armita** — her childhood friend; killed by Huanxin as revenge; Odette was unable to save her
-- **Lexis** — Odette's surface agent; kidnapped Beatrice and Ferdinand from Seattle
-
----
-
-## Books 7–8 — Nekhebit Inside the Dungeon
-
-Odette entered the dungeon as the sponsor of **Nekhebit** (an Egyptian vulture goddess, tattered and scarred). She is on **Floor 12 — the Court of the Ascendency** — competing in the throne battles the AI offered as "the game."
-
-During Floor 9, Mordecai was on Floor 9 while Odette/Nekhebit was already on Floor 12. They did not encounter each other directly. However, Mordecai loaded the crossbow bolt (with his mother's ashes) that Donut used to kill Huanxin Jinx — his way of participating in the revenge without being present.
-
-His last message (Book 6 flashback) remains: *"I am going to kill you, Odette."* Whether that confrontation happens on Floor 12 is the unresolved thread of the series.
-
-**In Book 8:** The AI announced that the winner of the Ascendency becomes a true god. Odette (as Nekhebit) is among the competing divine sponsors on Floor 12. Her ultimate goal — destroying the crawl's cruelty and assuaging her guilt over Mordecai — may or may not align with winning that particular game.
-
-## Source References
-
-- [Book 1: Dungeon Crawler Carl](../sources/book-1-dungeon-crawler-carl.md)
-- [Book 4: The Gate of the Feral Gods](../sources/book-4-gate-of-the-feral-gods.md)
-- [Book 5: The Butcher's Masquerade](../sources/book-5-butchers-masquerade.md)
-- [Book 6: The Eye of the Bedlam Bride](../sources/book-6-eye-of-the-bedlam-bride.md)
-- [Book 7: This Inevitable Ruin](../sources/book-7-this-inevitable-ruin.md)
-- [Book 8: A Parade of Horribles](../sources/book-8-parade-of-horribles.md)
+## Interaction with Carl & Donut
+She interviews Carl and Donut in [[028-book-1-chapter-28-studio-interview]]. Off-camera, she gives them valuable advice:
+1. Don't change Donut's race on Floor 3 (doing so will tank her viral popularity).
+2. Stop complaining out loud about pants/gear, as the system AI will deliberately withhold items (like pants) if it finds the crawlers' suffering funny/entertaining.
+3. She requests they tell Mordecai to seek her out once his final tour as a guide is complete, revealing she has kept an eye on him.
+4. She states her primary motivation for helping them is money.
